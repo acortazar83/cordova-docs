@@ -170,7 +170,7 @@ SDK para plataformas móviles vienen a menudo incluidos con emuladores que ejecu
 
 Algunas plataformas móviles emulan un dispositivo especial de forma predeterminada, como el iPhone iOS proyectos. Para otras plataformas, necesitará primero asociado a un dispositivo con un emulador.
 
-**Nota**: apoyo emulador no está actualmente disponible para Amazon fuego OS.
+**Nota**: No hay soporte de emulador actualmente para Amazon FireOS.
 
 (Vea a las guías de la plataforma para más detalles). Por ejemplo, usted puede ejecuta el comando `android` para lanzar el SDK de Android, luego ejecute una imagen del dispositivo en particular, que inicia según su comportamiento predeterminado:
 
